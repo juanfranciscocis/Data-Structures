@@ -89,13 +89,10 @@
     
 ##### MODELOS MATEMATICOS
     - El runtime total = suma del costo de todas las operaciones basicas del prpgrmaa multiplicado por su frecuencia
-    
 
 
-    
-    
-    
-    
+
+
     
     
     
